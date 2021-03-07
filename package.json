@@ -1,0 +1,27 @@
+{
+  "name": "friendlia-tmp-lp",
+  "version": "1.0.0",
+  "description": "Landing page for project",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "^2.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajjad2881/friendlia-tmp-lp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajjad2881/friendlia-tmp-lp/issues"
+  },
+  "homepage": "https://github.com/sajjad2881/friendlia-tmp-lp#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.7",
+    "tailwindcss": "^2.0.3"
+  }
+}
